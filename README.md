@@ -1,3 +1,3 @@
 My-world
 ========
-<h1>World</h1>
+<h6>World</h6>
